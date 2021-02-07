@@ -3,9 +3,9 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: image('assets/img/masthead.jpg');
+  background: url('../img/masthead.jpg');
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center bottom;
   background-attachment: scroll;
   background-size: cover;
   .masthead-content {
